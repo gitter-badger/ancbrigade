@@ -1,6 +1,8 @@
 ancfinder
 ==========
 
+[![Join the chat at https://gitter.im/mcwhittemore/ancbrigade](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mcwhittemore/ancbrigade?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A website about DC's Advisory Neighborhood Commission system.
 
 Contributing
